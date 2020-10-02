@@ -8,7 +8,7 @@ Comment utiliser le logiciel ?
 
 ![ScreenShot](https://i.imgur.com/XaI7sQy.png)
 
-2) Enregistrer le fichier puis démarrer le NitroSniper.exe et voilà !
+2) Enregistrer le fichier puis démarrer le NitroClaimer.exe et voilà !
 
 
 (J'ai mis le code source pour que vous voyez à quoi ressemble le projet)
