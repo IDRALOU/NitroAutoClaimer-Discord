@@ -10,7 +10,7 @@ Comment utiliser le logiciel ?
 
 2) Enregistrer le fichier puis démarrer le NitroClaimer.exe et voilà !
 
-3) (Optionelle) Si vous voulez démarrer le fichier .py, écrivez dans le cmd avant de le lance `python3 -m pip install -r requirements_termux.txt` pour Termux et `pip install -r requirements.txt` pour Windows
+3) (Optionelle) Si vous voulez démarrer le fichier .py, écrivez dans le cmd avant de le lancer `python3 -m pip install -r requirements_termux.txt` pour Termux et `pip install -r requirements.txt` pour Windows
 
 
 (J'ai mis le code source pour que vous voyez à quoi ressemble le projet)
