@@ -2,7 +2,6 @@ import discord
 from discord.ext import commands
 from colorama import Fore, init
 import os
-import ctypes
 import requests
 import re
 import json
