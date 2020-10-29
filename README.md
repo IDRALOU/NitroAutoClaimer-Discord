@@ -14,4 +14,4 @@ Comment utiliser le logiciel ?
 
 
 (J'ai mis le code source pour que vous voyez à quoi ressemble le projet)
-Pour me contacter c'est sur Discord IDRALOU#0002
+Pour me contacter c'est sur Discord IDRALOU#9999
