@@ -2,6 +2,7 @@ import re
 import json
 import sys
 import os
+import ctypes
 try:
     import discord
     from discord.ext import commands
@@ -21,6 +22,8 @@ except:
     import requests
 
 init(convert=True)
+
+ctypes.windll.kernel32.SetConsoleTitleW("NitroAutoClaimer - Fait par IDRALOU#6966")
 
 with open("token.json", "r") as file:
     data = json.load(file)
